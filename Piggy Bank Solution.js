@@ -1,4 +1,6 @@
 /**
+Date: 07-22-2026
+Instruction:
 Given an object representing a piggy bank, return the total value as a string formatted as "$D.CC".
 */
 
