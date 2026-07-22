@@ -1,3 +1,7 @@
+/**
+Given an object representing a piggy bank, return the total value as a string formatted as "$D.CC".
+*/
+
 function piggyBank(coins) {
   let total = 0;
 
