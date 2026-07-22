@@ -1,5 +1,0 @@
-function isValidSchema(obj) {
-
-  return (Object.hasOwn(obj, "username") && (typeof obj.username == "string"))
-
-}
